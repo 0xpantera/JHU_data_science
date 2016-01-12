@@ -167,3 +167,20 @@ def print_numbers(n):
         print i
 
 print_numbers(3)
+
+
+# Define a procedure, factorial, that
+# takes one number as its input
+# and returns the factorial of
+# that number.
+
+def factorial(n):
+    result = 1
+    while n >= 1:
+        result *= n
+        n -= 1
+    return result
+
+print factorial(4)
+print factorial(5)
+print factorial(6)
