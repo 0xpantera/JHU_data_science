@@ -1,4 +1,14 @@
+
+
+__This repository contains problem sets and projects completed by me for the following specialization on Coursera:__
+__The following are links to my certificates:__
+
+*[Certificate for The Data Scientist's Toolbox](https://www.coursera.org/account/accomplishments/certificate/BJRHEFTJNLAT)
+
+*[Certificate for R Programming](https://www.coursera.org/account/accomplishments/certificate/ZYEZBGHVWE2Y)
+
 # Johns Hopkins Data Science Specialization 
+
 Course created by: 
 
 ![Johns Hopkins Logo] (https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://coursera-university-assets.s3.amazonaws.com/4b/229e9cabab40da92cdd0fc46cd7e06/JHUNewSquare.png?auto=format&dpr=1&auto=format&dpr=1&w=100&h=)
